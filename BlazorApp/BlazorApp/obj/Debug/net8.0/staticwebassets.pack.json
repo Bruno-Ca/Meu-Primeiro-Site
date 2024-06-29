@@ -17,8 +17,44 @@
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\nbmad\\source\\repos\\BlazorApp\\BlazorApp\\wwwroot\\favicon.png",
-      "PackagePath": "staticwebassets\\favicon.png"
+      "Id": "C:\\Users\\nbmad\\source\\repos\\BlazorApp\\BlazorApp\\wwwroot\\favicon.jpg",
+      "PackagePath": "staticwebassets\\favicon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nbmad\\source\\repos\\BlazorApp\\BlazorApp\\wwwroot\\favicon2.png",
+      "PackagePath": "staticwebassets\\favicon2.png"
+    },
+    {
+      "Id": "C:\\Users\\nbmad\\source\\repos\\BlazorApp\\BlazorApp\\wwwroot\\images\\contate-me\\facebook.png",
+      "PackagePath": "staticwebassets\\images\\contate-me\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\nbmad\\source\\repos\\BlazorApp\\BlazorApp\\wwwroot\\images\\contate-me\\github.png",
+      "PackagePath": "staticwebassets\\images\\contate-me\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\nbmad\\source\\repos\\BlazorApp\\BlazorApp\\wwwroot\\images\\contate-me\\instagram.png",
+      "PackagePath": "staticwebassets\\images\\contate-me\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\nbmad\\source\\repos\\BlazorApp\\BlazorApp\\wwwroot\\images\\contate-me\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\contate-me\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\nbmad\\source\\repos\\BlazorApp\\BlazorApp\\wwwroot\\images\\contate-me\\whatsapp.png",
+      "PackagePath": "staticwebassets\\images\\contate-me\\whatsapp.png"
+    },
+    {
+      "Id": "C:\\Users\\nbmad\\source\\repos\\BlazorApp\\BlazorApp\\wwwroot\\images\\image1.png",
+      "PackagePath": "staticwebassets\\images\\image1.png"
+    },
+    {
+      "Id": "C:\\Users\\nbmad\\source\\repos\\BlazorApp\\BlazorApp\\wwwroot\\images\\image2.png",
+      "PackagePath": "staticwebassets\\images\\image2.png"
+    },
+    {
+      "Id": "C:\\Users\\nbmad\\source\\repos\\BlazorApp\\BlazorApp\\wwwroot\\images\\image3.png",
+      "PackagePath": "staticwebassets\\images\\image3.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
