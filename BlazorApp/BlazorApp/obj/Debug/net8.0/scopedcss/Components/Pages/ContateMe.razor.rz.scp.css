@@ -1,0 +1,41 @@
+h1[b-r6jnb8qrv9] {
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    text-align: center;
+    background: linear-gradient(to right, purple, blue);
+    color:white;
+    opacity:0.7;
+    width: 100%;
+}
+
+p[b-r6jnb8qrv9] {
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+
+.numero-email[b-r6jnb8qrv9] {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    text-align: center;
+    height: 20vh;
+    padding: 10%;
+}
+
+.email[b-r6jnb8qrv9], .numero[b-r6jnb8qrv9]{
+    flex-direction: column;
+
+}
+
+.container[b-r6jnb8qrv9] {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%; 
+}
+
+img[b-r6jnb8qrv9]{
+    padding:30px;
+}

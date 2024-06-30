@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlazorApp",
+    "\\BlazorApp\\BlazorApp",
+    "\\BlazorApp\\BlazorApp\\Components",
+    "\\BlazorApp\\BlazorApp\\Components\\Pages"
+  ],
+  "SelectedNode": "\\BlazorApp\\BlazorApp\\Components\\Pages\\ContateMe.razor",
+  "PreviewInSolutionExplorer": false
+}
