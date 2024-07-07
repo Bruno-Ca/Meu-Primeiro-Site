@@ -1,15 +1,20 @@
 h1[b-y7kdy2qawx],p[b-y7kdy2qawx] {
-    color: #fff;
+    color: black;
     font-family: Tahoma, Geneva, Verdana, sans-serif;
     padding-bottom: 20px;
 }
 
 .container[b-y7kdy2qawx] {
     display: flex;
-    background: linear-gradient(to right, purple, blue);
-    opacity: 0.7;
+    background: white;
+
     align-items: center;
     flex-direction: column;
     text-align: center;
     height: 20vh;
+}
+
+body[b-y7kdy2qawx] {
+    background: linear-gradient(to right, purple, blue);
+    opacity: 0.7;
 }

@@ -60,3 +60,5 @@ C:\Users\nbmad\OneDrive\Documentos\GitHub\Meu-Primeiro-Site\BlazorApp\BlazorApp\
 C:\Users\nbmad\OneDrive\Documentos\GitHub\Meu-Primeiro-Site\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.genruntimeconfig.cache
 C:\Users\nbmad\OneDrive\Documentos\GitHub\Meu-Primeiro-Site\BlazorApp\BlazorApp\obj\Debug\net8.0\ref\BlazorApp.dll
 C:\Users\nbmad\OneDrive\Documentos\GitHub\Meu-Primeiro-Site\BlazorApp\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Pages\ContateMe.razor.rz.scp.css
+C:\Users\nbmad\OneDrive\Documentos\GitHub\Meu-Primeiro-Site\BlazorApp\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Pages\Portfolio.razor.rz.scp.css
+C:\Users\nbmad\OneDrive\Documentos\GitHub\Meu-Primeiro-Site\BlazorApp\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Pages\SobreMim.razor.rz.scp.css

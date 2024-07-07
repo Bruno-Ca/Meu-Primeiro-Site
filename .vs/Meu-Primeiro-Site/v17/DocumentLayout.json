@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp\\BlazorApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\Components\\Pages\\ContateMe.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp\\BlazorApp\\Components\\Pages\\ContateMe.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\Components\\Pages\\Inicio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp\\BlazorApp\\Components\\Pages\\Inicio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\Components\\App.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp\\BlazorApp\\Components\\App.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -93,12 +105,45 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\BlazorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\Program.cs",
+              "RelativeToolTip": "BlazorApp\\BlazorApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:33:54.686Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ContateMe.razor.css",
+              "DocumentMoniker": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\Components\\Pages\\ContateMe.razor.css",
+              "RelativeDocumentMoniker": "BlazorApp\\BlazorApp\\Components\\Pages\\ContateMe.razor.css",
+              "ToolTip": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\Components\\Pages\\ContateMe.razor.css",
+              "RelativeToolTip": "BlazorApp\\BlazorApp\\Components\\Pages\\ContateMe.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-05T14:33:51.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\BlazorApp\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\Components\\App.razor",
+              "RelativeToolTip": "BlazorApp\\BlazorApp\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T14:32:40.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Inicio.razor",
               "DocumentMoniker": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\Components\\Pages\\Inicio.razor",
               "RelativeDocumentMoniker": "BlazorApp\\BlazorApp\\Components\\Pages\\Inicio.razor",
@@ -106,12 +151,11 @@
               "RelativeToolTip": "BlazorApp\\BlazorApp\\Components\\Pages\\Inicio.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T23:52:31.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T23:52:31.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Error.razor",
               "DocumentMoniker": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "BlazorApp\\BlazorApp\\Components\\Pages\\Error.razor",
@@ -123,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -131,8 +175,11 @@
               "RelativeToolTip": "README.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-06-29T23:49:14.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T23:49:14.424Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

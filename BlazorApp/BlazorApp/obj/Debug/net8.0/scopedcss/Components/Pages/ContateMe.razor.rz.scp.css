@@ -1,18 +1,19 @@
-h1[b-r6jnb8qrv9] {
-    font-family: Tahoma, Geneva, Verdana, sans-serif;
-    padding: 20px;
-    text-align: center;
+body[b-r6jnb8qrv9] {
     background: linear-gradient(to right, purple, blue);
-    color:white;
-    opacity:0.7;
-    width: 100%;
 }
 
-p[b-r6jnb8qrv9] {
+.textos[b-r6jnb8qrv9] {
     font-family: Tahoma, Geneva, Verdana, sans-serif;
     padding: 20px;
     text-align: center;
+    background:white;
+    opacity: 0.7;
+    width: 100%;
+    border-radius: 100px;
+    margin-bottom: 5%;
 }
+
+
 
 .numero-email[b-r6jnb8qrv9] {
     display: flex;
@@ -20,20 +21,23 @@ p[b-r6jnb8qrv9] {
     justify-content: space-around;
     flex-direction: row;
     text-align: center;
-    height: 20vh;
-    padding: 10%;
+
 }
 
-.email[b-r6jnb8qrv9], .numero[b-r6jnb8qrv9]{
+.email[b-r6jnb8qrv9], .numero[b-r6jnb8qrv9] {
     flex-direction: column;
-
 }
 
 .container[b-r6jnb8qrv9] {
     display: flex;
     justify-content: space-around;
+    flex-direction: column;
     align-items: center;
-    width: 100%; 
+    width: 100%;
+    background: white;
+    opacity: 0.7;
+    width: 100%;
+    border-radius: 100px;
 }
 
 img[b-r6jnb8qrv9]{

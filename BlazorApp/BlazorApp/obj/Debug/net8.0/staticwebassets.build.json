@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nO2oh4Vnj0+oNA4jpym7LoTypP1XJC1kmiLJUdZp5F8=",
+  "Hash": "fWqdilhUrFjsav0KiLzH43eZ5yTrOG/14OBJ3D4xxlc=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -264,12 +264,12 @@
       "OriginalItemSpec": "wwwroot\\images\\contate-me\\whatsapp.png"
     },
     {
-      "Identity": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\wwwroot\\images\\image1.png",
+      "Identity": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\wwwroot\\images\\porfolio\\portfolio.jpg",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
-      "RelativePath": "images/image1.png",
+      "RelativePath": "images/porfolio/portfolio.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -280,45 +280,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\image1.png"
-    },
-    {
-      "Identity": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\wwwroot\\images\\image2.png",
-      "SourceId": "BlazorApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\wwwroot\\",
-      "BasePath": "_content/BlazorApp",
-      "RelativePath": "images/image2.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\image2.png"
-    },
-    {
-      "Identity": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\wwwroot\\images\\image3.png",
-      "SourceId": "BlazorApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\wwwroot\\",
-      "BasePath": "_content/BlazorApp",
-      "RelativePath": "images/image3.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\image3.png"
+      "OriginalItemSpec": "wwwroot\\images\\porfolio\\portfolio.jpg"
     }
   ]
 }

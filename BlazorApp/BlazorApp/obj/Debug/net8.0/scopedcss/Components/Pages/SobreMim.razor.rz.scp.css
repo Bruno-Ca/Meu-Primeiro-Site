@@ -1,0 +1,20 @@
+body[b-5gwcj9rmlh] {
+    background: linear-gradient(to right, purple, blue);
+    opacity: 0.7;
+}
+
+h1[b-5gwcj9rmlh], p[b-5gwcj9rmlh] {
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    text-align: center;
+    background: white;
+    opacity: 0.7;
+    width: 100%;
+    border-radius: 100px;
+    margin-bottom: 5%;
+}
+
+.mapa[b-5gwcj9rmlh] {
+    align-items: center;
+    display: flex;
+}

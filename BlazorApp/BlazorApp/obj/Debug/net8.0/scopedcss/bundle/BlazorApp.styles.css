@@ -1,4 +1,9 @@
 /* _content/BlazorApp/Components/Layout/MainLayout.razor.rz.scp.css */
+body[b-qgsvw684bo] {
+    background: linear-gradient(to right, purple, blue);
+    opacity: 0.7;
+}
+
 .page[b-qgsvw684bo] {
     position: relative;
     display: flex;
@@ -190,21 +195,22 @@ main[b-qgsvw684bo] {
     }
 }
 /* _content/BlazorApp/Components/Pages/ContateMe.razor.rz.scp.css */
-h1[b-r6jnb8qrv9] {
-    font-family: Tahoma, Geneva, Verdana, sans-serif;
-    padding: 20px;
-    text-align: center;
+body[b-r6jnb8qrv9] {
     background: linear-gradient(to right, purple, blue);
-    color:white;
-    opacity:0.7;
-    width: 100%;
 }
 
-p[b-r6jnb8qrv9] {
+.textos[b-r6jnb8qrv9] {
     font-family: Tahoma, Geneva, Verdana, sans-serif;
     padding: 20px;
     text-align: center;
+    background:white;
+    opacity: 0.7;
+    width: 100%;
+    border-radius: 100px;
+    margin-bottom: 5%;
 }
+
+
 
 .numero-email[b-r6jnb8qrv9] {
     display: flex;
@@ -212,20 +218,23 @@ p[b-r6jnb8qrv9] {
     justify-content: space-around;
     flex-direction: row;
     text-align: center;
-    height: 20vh;
-    padding: 10%;
+
 }
 
-.email[b-r6jnb8qrv9], .numero[b-r6jnb8qrv9]{
+.email[b-r6jnb8qrv9], .numero[b-r6jnb8qrv9] {
     flex-direction: column;
-
 }
 
 .container[b-r6jnb8qrv9] {
     display: flex;
     justify-content: space-around;
+    flex-direction: column;
     align-items: center;
-    width: 100%; 
+    width: 100%;
+    background: white;
+    opacity: 0.7;
+    width: 100%;
+    border-radius: 100px;
 }
 
 img[b-r6jnb8qrv9]{
@@ -233,17 +242,54 @@ img[b-r6jnb8qrv9]{
 }
 /* _content/BlazorApp/Components/Pages/Inicio.razor.rz.scp.css */
 h1[b-y7kdy2qawx],p[b-y7kdy2qawx] {
-    color: #fff;
+    color: black;
     font-family: Tahoma, Geneva, Verdana, sans-serif;
     padding-bottom: 20px;
 }
 
 .container[b-y7kdy2qawx] {
     display: flex;
-    background: linear-gradient(to right, purple, blue);
-    opacity: 0.7;
+    background: white;
+
     align-items: center;
     flex-direction: column;
     text-align: center;
     height: 20vh;
+}
+
+body[b-y7kdy2qawx] {
+    background: linear-gradient(to right, purple, blue);
+    opacity: 0.7;
+}
+/* _content/BlazorApp/Components/Pages/Portfolio.razor.rz.scp.css */
+body[b-jeryej0hkz] {
+    background: linear-gradient(to right, purple, blue);
+    opacity: 0.7;
+}
+
+h1[b-jeryej0hkz],p[b-jeryej0hkz]{
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+/* _content/BlazorApp/Components/Pages/SobreMim.razor.rz.scp.css */
+body[b-5gwcj9rmlh] {
+    background: linear-gradient(to right, purple, blue);
+    opacity: 0.7;
+}
+
+h1[b-5gwcj9rmlh], p[b-5gwcj9rmlh] {
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    text-align: center;
+    background: white;
+    opacity: 0.7;
+    width: 100%;
+    border-radius: 100px;
+    margin-bottom: 5%;
+}
+
+.mapa[b-5gwcj9rmlh] {
+    align-items: center;
+    display: flex;
 }

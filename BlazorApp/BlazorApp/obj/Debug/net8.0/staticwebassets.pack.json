@@ -49,16 +49,8 @@
       "PackagePath": "staticwebassets\\images\\contate-me\\whatsapp.png"
     },
     {
-      "Id": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\wwwroot\\images\\image1.png",
-      "PackagePath": "staticwebassets\\images\\image1.png"
-    },
-    {
-      "Id": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\wwwroot\\images\\image2.png",
-      "PackagePath": "staticwebassets\\images\\image2.png"
-    },
-    {
-      "Id": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\wwwroot\\images\\image3.png",
-      "PackagePath": "staticwebassets\\images\\image3.png"
+      "Id": "C:\\Users\\nbmad\\OneDrive\\Documentos\\GitHub\\Meu-Primeiro-Site\\BlazorApp\\BlazorApp\\wwwroot\\images\\porfolio\\portfolio.jpg",
+      "PackagePath": "staticwebassets\\images\\porfolio\\portfolio.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",

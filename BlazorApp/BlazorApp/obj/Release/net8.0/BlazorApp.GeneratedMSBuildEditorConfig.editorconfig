@@ -26,14 +26,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nbmad/OneDrive/Documentos/GitHub/Meu-Primeiro-Site/BlazorApp/BlazorApp/Components/Pages/Portfolio.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQb3J0Zm9saW8ucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/nbmad/OneDrive/Documentos/GitHub/Meu-Primeiro-Site/BlazorApp/BlazorApp/Components/Pages/SobreMim.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTb2JyZU1pbS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/nbmad/OneDrive/Documentos/GitHub/Meu-Primeiro-Site/BlazorApp/BlazorApp/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -57,3 +49,11 @@ build_metadata.AdditionalFiles.CssScope = b-r6jnb8qrv9
 [C:/Users/nbmad/OneDrive/Documentos/GitHub/Meu-Primeiro-Site/BlazorApp/BlazorApp/Components/Pages/Inicio.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbmljaW8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-y7kdy2qawx
+
+[C:/Users/nbmad/OneDrive/Documentos/GitHub/Meu-Primeiro-Site/BlazorApp/BlazorApp/Components/Pages/Portfolio.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQb3J0Zm9saW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jeryej0hkz
+
+[C:/Users/nbmad/OneDrive/Documentos/GitHub/Meu-Primeiro-Site/BlazorApp/BlazorApp/Components/Pages/SobreMim.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTb2JyZU1pbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-5gwcj9rmlh
